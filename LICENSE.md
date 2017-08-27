@@ -5,6 +5,7 @@ Modifications: The SVG sprite was split into multiple files showing one icon eac
 
 ----
 
+```
 All assets made by and (c) Tobias Zwick unless explicitly stated otherwise. License: CC-BY-SA 4.0.
 
 URLs to other sources used:
@@ -75,3 +76,4 @@ quest_icons.svg
 	wifi
 	wheelchair
 	wheelchair_shop
+```

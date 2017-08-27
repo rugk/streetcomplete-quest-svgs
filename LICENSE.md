@@ -1,7 +1,7 @@
-Original license file: https://github.com/westnordost/StreetComplete/blob/master/res/authors.txt
-CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
-Original file: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg
-Modifications: The SVG sprite was split into multiple files showing one icon each. The icons itself should not be modified and follow the original source. The icons may, however, be saved under a different name than stated here.
+Original license file: https://github.com/westnordost/StreetComplete/blob/master/res/authors.txt  
+CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/  
+Original file: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg  
+Modifications: The SVG sprite was split into multiple files showing one icon each. The icons itself should not be modified and follow the original source. The icons may, however, be saved under a different name than stated here.  
 
 ----
 

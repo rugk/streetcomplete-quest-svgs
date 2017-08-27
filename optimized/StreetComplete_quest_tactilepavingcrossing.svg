@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138" height="138" version="1.1" viewBox="0 0 138.00002 138" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Tobias Zwick</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="blind_pedestrian_crossing" transform="translate(722 149)">
+  <path d="m-589-80c0 35.346-28.654 64-64 64-35.346 0-64-28.654-64-64 0-35.346 28.654-64 64-64 35.346 0 64 28.654 64 64" fill="#529add" stroke-width=".2"/>
+  <g fill-opacity=".2">
+   <path d="m-658-64-4.0172 40.005h18l-3.9828-40.005z" style="paint-order:stroke fill markers"/>
+   <g stroke-width=".2">
+    <path d="m-690.6-64-15.354 19.957c2.4026 3.5304 5.1551 6.8008 8.1973 9.7773l17.156-29.734z"/>
+    <path d="m-673.57-64-16.107 36.416c1.8389 1.2898 3.7449 2.4898 5.7188 3.584h8.9609l11-40z"/>
+    <path d="m-641.5-64 10.5 40h8.9961c2.327-1.29 4.5634-2.7231 6.7012-4.2832l-16.02-35.717z"/>
+    <path d="m-624.58-64.007 16.697 29.377c3.0226-3.0054 5.7459-6.3104 8.123-9.8672l-14.854-19.51z"/>
+   </g>
+  </g>
+  <g transform="translate(-285,-144)" fill="#fff" style="paint-order:stroke fill markers">
+   <path d="m-405.57 76-16.77 21.799c2.3519 3.7733 5.0886 7.2789 8.1504 10.473l18.619-32.271z" style="paint-order:stroke fill markers"/>
+   <path d="m-388.57 76-17.459 39.471 1.0312 0.5293h15l11-40z" style="paint-order:stroke fill markers"/>
+   <path d="m-372.98 75.995-4.0172 40.005h18l-3.9828-40.005z" style="paint-order:stroke fill markers"/>
+   <path d="m-356.5 76 10.5 40h15l2.0357-1.2988-17.357-38.701z" style="paint-order:stroke fill markers"/>
+   <path d="m-339.56 76 18.121 31.881c3.0397-3.2242 5.7589-6.7537 8.082-10.555l-16.236-21.326z" style="paint-order:stroke fill markers"/>
+  </g>
+  <g transform="matrix(.2165 0 0 -.2165 -602.38 -59.497)" style="paint-order:stroke fill markers">
+   <path d="m-313.77 299.64c-29.381 0-53.497-24.116-53.497-53.497 0-17.02 8.1196-32.236 20.641-42.058-46.269-21.234-69.565-64.995-69.212-109.2 0-19.054 15.82-34.77 34.877-34.597 5.6407 0.0511 10.893 1.6114 15.598 4.1047-1.2355-9.388-2.9584-17.843-5.7376-25.792-5.565-15.919-15.184-30.723-35.95-48.842l0.1894 0.16241c-14.666-12.335-16.39-34.746-3.789-49.185 12.589-14.425 34.986-15.747 49.194-2.9229 23.84 20.838 39.099 43.018 49.014 65.261 4.3834-13.546 7.4989-28.144 10.564-45.251 9e-4 -6e-3 -9e-4 -0.012 0-0.018l0.046-0.17141c2.7261-16.038 16.492-28.132 32.766-28.751 21.929-0.83502 39.417 19.567 35.247 41.111v9e-3c-5.9487 33.191-14.364 65.975-32.766 98.495 3.9912-2.3263 8.121-4.6052 12.54-6.766 4.8489-2.4433 10.213-3.7117 15.643-3.6988 4.9487 0.012 9.7095 1.086 14.028 3.0312 1.0591-3.8515 3.031-7.4938 5.9451-10.546l103.46-111.68c4.9534-5.4967 12.1-8.5384 19.495-8.2997 10.337 0.33423 19.014 7.1801 22.463 15.607 3.4494 8.4269 2.0651 19.397-5.0702 26.884l-103.46 111.67c-5.7875 6.4388-14.335 9.1495-22.418 7.9839-0.06 13.095-7.595 25.427-19.802 31.178l0.1709-0.0812c-18.588 9.07-29.859 20.066-41.363 33.244-9.9792 11.432-19.957 24.633-33.947 37.782 22.218 6.5028 38.62 27.11 38.62 51.332 0 29.381-24.107 53.497-53.488 53.497z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".2" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <g transform="matrix(.81509 0 0 .81509 -516.75 -131.58)" fill="#fff" stroke="#529add" stroke-linecap="round">
+    <path transform="matrix(4.619 0 0 -4.619 -7820.5 629.13)" d="m1744.1 45.045a5.5005 5.5005 0 0 0 -2.1484 0.39648c-11.968 4.8154-17.682 15.34-17.584 26.262a5.5005 5.5005 0 1 0 11 -0.09961c-0.033-3.6487 0.4655-6.6384 1.8867-9.1426 0.2508 3.2846 0.7494 6.419 1.2578 9.2422-0.8698 12.402-1.3531 20.474-13.07 30.697a5.5005 5.5005 0 1 0 7.2324 8.2871c9.1463-7.9801 13.094-16.387 15.006-24.77 3.8411 6.6422 5.4183 13.256 6.9101 21.594a5.5005 5.5005 0 0 0 5.2188 4.6055 5.5005 5.5005 0 0 0 5.6094 -6.543c-2.1478-12.003-5.2487-23.113-14.801-34.41-0.342-1.8899-0.6513-3.9218-0.8945-5.9805 3.7209 4.1577 8.4367 8.5487 15.59 12.039a5.5005 5.5005 0 0 0 2.4922 0.58984 5.5005 5.5005 0 0 0 2.332 -10.477c-10.976-5.3555-13.891-13.564-22.559-20.973a5.5005 5.5005 0 0 0 -3.4785 -1.3184z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="7.3611" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <circle transform="scale(1,-1)" cx="252.49" cy="-483.5" r="48.632" stroke-linejoin="round" stroke-width="34.001" style="paint-order:stroke fill markers"/>
+    <path d="m519.76 113.3a13.858 13.858 0 0 0 -10.744 4.5762l-127.27 137.37a13.858 13.858 0 1 0 20.33 18.834l127.27-137.37a13.858 13.858 0 0 0 -9.584 -23.412z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="34.001" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

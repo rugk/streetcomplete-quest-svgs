@@ -33,8 +33,8 @@
   <g transform="matrix(.32302 -.1865 .1865 .32302 -118.09 -18.133)" stroke-width="2.681">
    <g stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="-652.92" cy="-80.024" rx="46.139" ry="46.139" fill="#fff" stroke="#c84747" stroke-width="16.086" style="paint-order:normal"/>
-    <path d="m-653-80 24 11.626" fill="none" stroke="#666" stroke-width="16.086"/>
-    <path d="m-653-116v36" fill="none" stroke="#666" stroke-width="10.724"/>
+    <path d="m-647.4-81.979 23.401-12.788" fill="none" stroke="#666" stroke-width="16.086"/>
+    <path d="m-682.03-101.29 29.03 21.29" fill="none" stroke="#666" stroke-width="10.724"/>
    </g>
    <ellipse cx="-652.95" cy="-80" rx="8.0303" ry="8.0146" fill="#444" style="paint-order:normal"/>
   </g>

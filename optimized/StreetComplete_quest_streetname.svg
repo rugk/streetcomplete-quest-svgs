@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="138" height="138" version="1.1" viewBox="0 0 138 138" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="138.02" height="138.02" version="1.1" viewBox="0 0 138.02121 138.02119" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -23,13 +23,12 @@
    </cc:License>
   </rdf:RDF>
  </metadata>
- <g id="housenumber_street" transform="matrix(.2 0 0 -.2 -3.8894 154.82)">
-  <path d="m684.45 429.1c0-176.73-143.27-320-320-320s-320 143.27-320 320 143.27 320 320 320 320-143.27 320-320" fill="#c8c4b7"/>
-  <rect transform="scale(1,-1)" x="324.45" y="-669.1" width="80.191" height="560" fill="#666" style="paint-order:stroke fill markers"/>
-  <path d="m164.22 569.1c-22.16 0-40-19.776-40-44.336v-191.34c0-24.56 17.84-44.326 40-44.326h399.97c22.16 0 40 19.766 40 44.326v191.34c0 24.56-17.84 44.336-40 44.336z" fill-opacity=".2" style="paint-order:normal"/>
-  <g transform="translate(1.25 -59.17)">
-   <rect transform="scale(1,-1)" x="123.2" y="-648.27" width="480" height="280" rx="40" ry="44.332" fill="#495aad" style="paint-order:normal"/>
-   <path d="m163.2 568.27v-120c20 0 40-20 40-40h320c0 20 23.445 40 40 40v120c-20 0-40 20-40 40h-320c0-20-20-40-40-40z" fill="none" stroke="#fff" stroke-width="25.076"/>
-  </g>
+ <g id="street_name" transform="rotate(30 -158.84 881.98)">
+  <path d="m-304 64c0 35.346-28.654 64-64 64-35.346 0-64-28.654-64-64s28.654-64 64-64c35.346 0 64 28.654 64 64" fill="#fd5" stroke-width=".2"/>
+  <rect transform="rotate(-30)" x="-356.74" y="-176.62" width="12.176" height="112" fill="#666" style="paint-order:stroke fill markers"/>
+  <path d="m-366.63 26.32-45.803 26.444-6.4755 19.006 19.698 3.8952 45.803-26.444z" fill-opacity=".2" style="paint-order:normal"/>
+  <path d="m-368.68 22.776-45.803 26.444-6.4755 19.006 19.698 3.8952 45.803-26.444z" fill="#fff" style="paint-order:normal"/>
+  <path d="m-378.51 79.507 45.803-26.444 19.698 3.8952-6.4755 19.006-45.803 26.444z" fill-opacity=".2" style="paint-order:normal"/>
+  <path d="m-380.63 75.861 45.803-26.444 19.698 3.8952-6.4755 19.006-45.803 26.444z" fill="#fff" style="paint-order:normal"/>
  </g>
 </svg>

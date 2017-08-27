@@ -6,7 +6,5 @@ I just want to colect them in a usable format here. This was done in order to ad
 
 ## Contributing
 
-PRs are very much appreciated. You could e.g.:
-* check the names of the files and rename them correctly
-* upload new versions of the icons or new icons if they are changed in the original file and missing here.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 

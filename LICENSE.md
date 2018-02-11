@@ -17,6 +17,16 @@ URLs to other sources used:
 File                            Author if not Tobias Zwick / Source
 ===============================================================================
 
+appicon_fancy.svg				elegant themes
+
+appicon_flat.svg				elegant themes
+
+building_levels_illustration.svg
+
+living_street.svg
+
+roof_shape_icons.svg
+
 quest_icons.svg
 	bicycle
 	bicycle_parking
@@ -47,14 +57,16 @@ quest_icons.svg
 	money						modified from EmojiOne 2: U+1F4B8
 	notes
 	parking
+	parking_access					parts taken from EmojiOne 2: U+1F511
+	parking_fee					parts taken from EmojiOne 2: U+1F4B8
 	parking_maxstay
 	power
-    fire_hydrant
+    	fire_hydrant
 	pedestrian
 	pedestrian_crossing
 	phone
 	restaurant					modified from Twemoji 2: U+1F37D
-	restaurant_veg				parts taken from Twemoji 2: U+1F37D and U+1F955
+	restaurant_veg					parts taken from Twemoji 2: U+1F37D and U+1F955
 	oneway
 	quest
 	railway
@@ -76,4 +88,60 @@ quest_icons.svg
 	wifi
 	wheelchair
 	wheelchair_shop
+	
+religion_icons.svg
+	hindu						https://commons.wikimedia.org/wiki/File:Om_symbol.svg
+	jain						https://commons.wikimedia.org/wiki/File:Ahimsa.svg
+	sikh						https://en.wikipedia.org/wiki/File:Khanda.svg
+	buddhist
+	christian
+	jewish						https://commons.wikimedia.org/wiki/File:Star_of_David.svg
+	muslim						https://commons.wikimedia.org/wiki/File:Star_and_Crescent.svg
+	bahai						https://commons.wikimedia.org/wiki/File:Bahai_star.svg
+	confucian
+	shinto						https://commons.wikimedia.org/wiki/File:Shinto_torii_vermillion.svg
+	taoism						
+	chinese						https://commons.wikimedia.org/wiki/File:Chinese_lu_symbol_-_%E7%A6%84.svg
+	caodai
+	
+slow_zone.svg
+
+slow_zone_us.svg
+
+sport_icons.svg
+	american_football
+	archery						modified from Twemoji 2: U+1F3F9
+	athletics
+	australian_football
+	badminton					EmojiOne 2: U+1F3F8
+	baseball
+	basketball					EmojiOne 2: U+1F3C0
+	beach_volleyball			by Adrien Pavie, modified from EmojiOne 2: U+1F3D0 
+	boules
+	bowls
+	canadian_football
+	cricket						EmojiOne 2: U+1F3CF
+	equestrian					Twemoji 2: U+1F3C7
+	field_hockey				EmojiOne 2: U+1F3D1
+	gaelic_games				parts taken from EmojiOne 2: U+1F3D0
+	golf						Twemoji 2: U+26F3
+	gymnastics					modified from EmojiOne 2: U+1F938
+	handball
+	ice_hockey					EmojiOne 2: U+1F3D2
+	ice_skating					EmojiOne 2: U+26F8
+	ice_stock
+	netball						mashup from EmojiOne 2: U+1F3D0 and U+1F3C0
+	racquetball
+	rugby						EmojiOne 2: U+1F3C9
+	paddle_tennis
+	sepak_takraw
+	shooting					modified from Twemoji 2: U+1F52B
+	skateboard
+	soccer						EmojiOne 2: U+26BD
+	softball
+	skating
+	squash						modified from EmojiOne 2: U+1F3F8
+	table_tennis				EmojiOne 2: U+1F3D3
+	tennis						EmojiOne 2: U+1F3BE
+	volleyball					EmojiOne 2: U+1F3D0
 ```

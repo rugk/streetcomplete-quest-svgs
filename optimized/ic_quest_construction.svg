@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138" height="138" version="1.1" viewBox="0 0 138 138" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Tobias Zwick</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="construction" transform="translate(-1603.1 -270.42)">
+  <circle class="st0" cx="1672.1" cy="339.42" r="64" fill="#aaa"/>
+  <g fill="#666">
+   <path d="m1640.1 307.5v87.273a64 64 0 0 0 16 6.5293v-93.803z"/>
+   <path d="m1688.1 307.5v93.84a64 64 0 0 0 16 -6.582v-87.258z"/>
+  </g>
+  <path d="m1632.1 319.5c-4.456 0-8.0429 3.587-8.0429 8.043v31.914c0 4.456 3.5869 8.043 8.0429 8.043h79.914c4.456 0 8.043-3.587 8.043-8.043v-31.914c0-4.456-3.587-8.043-8.043-8.043z" fill-opacity=".2"/>
+  <rect x="1624.1" y="315.5" width="96" height="48" ry="8.0433" fill="#555" style="paint-order:normal"/>
+  <path d="m1632.1 315.5c-3.8167 0-6.9867 2.6476-7.7949 6.2129l28.746 41.787h14.143l-32.332-48zm16.619 0 32.332 48h14.143l-32.332-48zm28 0 32.332 48h3.0488c3.6926 0 6.7759-2.4795 7.7051-5.8691l-28.943-42.131zm28 0 15.381 22v-14c0-4.432-3.568-8-8-8zm-80.619 26v14c0 4.432 3.568 8 8 8h7.0938z" fill="#ffe94c" style="paint-order:normal"/>
+ </g>
+</svg>

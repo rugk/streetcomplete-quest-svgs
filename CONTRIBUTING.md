@@ -21,3 +21,18 @@ When the SVGs are saved as "optimized SVGs" you can still minimize them even mor
 **Note:** Please compare the resulting sizes of the files and choose the smallest one. Sometimes maybe also Inkscape's optimizer can be better than SVGO.
 So pay attention: When the web GUI shows a red percentage that means the file size increased!
 
+## Upload to the OpenStreetMap wiki
+
+1. Use the usual upload options (e.g. when adding an image via the visual editor or [this special page](https://wiki.openstreetmap.org/wiki/Special:Upload).
+2. Upload the **optimized versions** (from the [optimized dir](optimized/)) and **rename** them by replacing the `ic` with `StreetComplete`, so it is easier to find them. Apart from that, keep the original name.
+3. Add the ["StreetComplete Quest Icon" category](https://wiki.openstreetmap.org/wiki/Category:StreetComplete_Quest_Icon), so all those images can be seen there.
+4. Add a decription similar to this one with backlinks and all this legal:
+   ```
+   Quest icon of the app [[StreetComplete]] showing […image description goes here…].
+   
+   license: [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] by [[User:Westnordost|Tobias Zwick]]<br>
+   source: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg
+   [[Category:StreetComplete Quest Icon]]
+   ```
+   (This does already include step 3, i.e. the last line adds the category.)
+

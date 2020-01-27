@@ -14,6 +14,8 @@ In order to split the files, just follow [this guide](https://graphicdesign.stac
 3. File > Save As Copy or Ctrl+Shift+S
 4. Save as "Optimized SVG" (and as the usual "Inkscape SVG" later in the other directory, if you want).
 
+For the filename use name of the drawable mentioned in the icon property from the quests' source code.
+
 ## Minimize SVG image
 
 When the SVGs are saved as "optimized SVGs" you can still minimize them even more. To do so just use [SVGO](https://github.com/svg/svgo), e.g. in the [webinterface](https://jakearchibald.github.io/svgomg/). Enable "Multipass" in order to decrease the file size even more.

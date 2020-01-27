@@ -7,7 +7,7 @@ See also other issues tagged with ["help wanted"](https://github.com/rugk/street
 
 ## Split SVG file
 
-In order to split the files, just follow [this guide](https://graphicdesign.stackexchange.com/questions/18088/exporting-an-object-as-svg-from-inkscape):
+In order to split the files, just follow [this guide](https://graphicdesign.stackexchange.com/questions/18088/exporting-an-object-as-svg-from-inkscape) in Inkscape:
 1. Click on icon.
 2. Ctrl+Shift+R to resize page to drawing or selection.
 3. (recommend) `!` to revert selection and `Del` to delete other items.

@@ -34,10 +34,11 @@ So pay attention: When the web GUI shows a red percentage that means the file si
    
    == Licensing ==
    {{CC-BY-SA-4.0}}
-   Created by [[User:Westnordost|Tobias Zwick]]<br>
+   Created by [[User:Westnordost|Tobias Zwick]].<br>
    Source: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg
 
    [[Category:StreetComplete Quest Icon]]
    ```
    (This does already include step 3, i.e. the last line adds the category.)
-
+   
+   Do re-use that image description you used above as an alt (alternative) text, in the wiki.

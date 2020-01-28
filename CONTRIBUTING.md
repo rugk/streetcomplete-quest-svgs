@@ -32,8 +32,11 @@ So pay attention: When the web GUI shows a red percentage that means the file si
    ```
    Quest icon of the app [[StreetComplete]] showing […image description goes here…].
    
-   license: [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] by [[User:Westnordost|Tobias Zwick]]<br>
-   source: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg
+   == Licensing ==
+   {{CC-BY-SA-4.0}}
+   Created by [[User:Westnordost|Tobias Zwick]]<br>
+   Source: https://github.com/westnordost/StreetComplete/blob/master/res/quest_icons.svg
+
    [[Category:StreetComplete Quest Icon]]
    ```
    (This does already include step 3, i.e. the last line adds the category.)
